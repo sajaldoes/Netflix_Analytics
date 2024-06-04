@@ -1,7 +1,7 @@
 # Netflix Analytics 
 
 
-### [Visualize in Tableau](https://public.tableau.com/shared/CRRS7BG3F?:display_count=n&:origin=viz_share_link)
+### [Visualize in Tableau](https://public.tableau.com/views/NetflixAnalytics_16806303836160/NetflixDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Data Acquisition
 The data collected from kaggle [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows). 
